@@ -1,4 +1,3 @@
-#import socket
 from socket import socket, error
 from threading import Thread
 import os
