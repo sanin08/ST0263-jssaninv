@@ -50,13 +50,12 @@ def Main():
             datos = mySocket.recv(1024).decode()
 
             print(datos)
-            #print('Recibido desde el servidor: ' + datos)
+            
 
         operacion = input(">")
         if operacion == 'EXIT':
             mySocket.send(operacion.encode())
             datos = mySocket.recv(1024).decode()
-            #print('Recibido desde el servidor: ' + datos)
             print(datos)
             break
 
