@@ -14,6 +14,7 @@
 
 # Ejecución: Primero ejecutat el servidor con el comando servidor.py y luego escribir cliente.py para ejecutar el cliente
 
+![image](https://user-images.githubusercontent.com/37984632/128455675-cfd6f94b-cbb7-4922-914f-3ab4d4c70cf3.png)
 
 
 
